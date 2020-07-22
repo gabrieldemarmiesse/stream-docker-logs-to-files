@@ -1,0 +1,8 @@
+/.venv
+/.idea
+.github
+/.git
+.python-version
+build_push.py
+README.md
+/logs
